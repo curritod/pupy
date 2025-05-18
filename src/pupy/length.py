@@ -9,4 +9,4 @@ milimeter   = mili*meter
 centimeter  = centi*meter
 kilometer   = kilo*meter
 
-Angstrom    = 1e-1*nanometer
+angstrom    = 1e-1*nanometer
